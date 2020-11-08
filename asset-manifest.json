@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/hackerrank-kickstarter/static/js/main.25033d50.chunk.js",
+    "main.js.map": "/hackerrank-kickstarter/static/js/main.25033d50.chunk.js.map",
+    "runtime-main.js": "/hackerrank-kickstarter/static/js/runtime-main.659506a8.js",
+    "runtime-main.js.map": "/hackerrank-kickstarter/static/js/runtime-main.659506a8.js.map",
+    "static/js/2.7319fc4c.chunk.js": "/hackerrank-kickstarter/static/js/2.7319fc4c.chunk.js",
+    "static/js/2.7319fc4c.chunk.js.map": "/hackerrank-kickstarter/static/js/2.7319fc4c.chunk.js.map",
+    "index.html": "/hackerrank-kickstarter/index.html",
+    "precache-manifest.aceb3ed3f096eba1f4b4f59bc9b5904a.js": "/hackerrank-kickstarter/precache-manifest.aceb3ed3f096eba1f4b4f59bc9b5904a.js",
+    "service-worker.js": "/hackerrank-kickstarter/service-worker.js",
+    "static/js/2.7319fc4c.chunk.js.LICENSE.txt": "/hackerrank-kickstarter/static/js/2.7319fc4c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.659506a8.js",
+    "static/js/2.7319fc4c.chunk.js",
+    "static/js/main.25033d50.chunk.js"
+  ]
+}
